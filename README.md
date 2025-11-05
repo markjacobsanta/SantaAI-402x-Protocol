@@ -174,10 +174,8 @@ To execute the SantaAI 402x Protocol Agent locally and observe its functional lo
 
 The 402x Protocol Agent is a foundational element. Our strategic roadmap outlines its evolution into a fully autonomous, on-chain system:
 
-* **Q3 2024: On-Chain Integration:** Transition the agent's data acquisition and status update logic to directly interface with Solana RPC and smart contracts for real-time, immutable status management.
-* **Q4 2024: Modular Incentive Layer:** Implement a robust suite of smart contracts enabling dynamic, automated reward distribution, staking mechanisms, and access control directly tied to 402x status.
-* **Q1 2025: Decentralized Governance:** Deploy a DAO framework, empowering `VERIFIED` participants with transparent voting rights over protocol parameters, treasury allocation, and future development priorities.
-* **Q2 2025: Developer SDK & APIs:** Release comprehensive tools and documentation for developers to integrate with and leverage the 402x Protocol within their own applications and services on Solana.
+* **Q1 2026: Decentralized Governance:** Deploy a DAO framework, empowering `VERIFIED` participants with transparent voting rights over protocol parameters, treasury allocation, and future development priorities.
+* **Q2 2026: Developer SDK & APIs:** Release comprehensive tools and documentation for developers to integrate with and leverage the 402x Protocol within their own applications and services on Solana.
 
 ## 🤝 Contribution
 
