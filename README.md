@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://santaai.xyz">
-    <img src="https://i.ibb.co/1n53sW3/Santa-AI-Banner-Final.png" alt="SantaAI - The 402x Protocol" width="800"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://santaai.xyz">🌐 Explore SantaAI</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.santaai.xyz">📚 Official Documentation</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SantaAI-Team/SantaAI-402x-Protocol/issues">💡 Report Issues</a>
-</p>
 
 ---
 
